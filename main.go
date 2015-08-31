@@ -6,4 +6,5 @@ func main() {
 	PlatformTest()
 	ProtobufTest()
 	JsonTest()
+	XMLTest()
 }

@@ -7,4 +7,8 @@ func main() {
 	ProtobufTest()
 	JsonTest()
 	XMLTest()
+	GoroutineTest()
+	FileTest()
+	ZlibTest()
+	AESCtyptTest()
 }
